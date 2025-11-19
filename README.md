@@ -14,5 +14,5 @@ Utilizamos um jogo do Git Hub para fazer um remix
 * Ajustamos o tamanho da barra de vida (healthbar)
 
 
-* **Status da Fonte:** Em processo de localização do link exato.
-* *Agradecimento à Professora Ana Laura
+* **Status da Fonte:** 
+"https://github.com/Acaippa/pygame-fighting-game" - Acaippa - Projeto do Git Hub
