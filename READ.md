@@ -1,6 +1,7 @@
 # 🎮 Projeto Jogo de Plataforma - (Jogo de luta)
 
-Este é um projeto de jogo de plataforma 2D desenvolvido em Python utilizando a biblioteca **Pygame**.
+Este é um projeto de jogo de plataforma 2D remixado em Python utilizando a biblioteca **Pygame**.
+Utilizamos um jogo do Git Hub para fazer um remix
 
 ## 🚀 Tecnologias e Ferramentas
 * **Linguagem:** Python
