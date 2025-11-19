@@ -2,6 +2,8 @@
 
 Este é um projeto de jogo de plataforma 2D remixado em Python utilizando a biblioteca **Pygame**.
 Utilizamos um jogo do Git Hub para fazer um remix
+* Remix do jogo - Drive (obs: Não consegui adicionar aui):
+https://drive.google.com/drive/folders/1D_Yz5YNx05m1uVs0tld7c2Cciq89D0HH?usp=sharing](url)
 
 ## 🚀 Tecnologias e Ferramentas
 * **Linguagem:** Python
