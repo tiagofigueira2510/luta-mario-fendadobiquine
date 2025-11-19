@@ -15,4 +15,8 @@ Utilizamos um jogo do Git Hub para fazer um remix
 
 
 * **Status da Fonte:** 
-"https://github.com/Acaippa/pygame-fighting-game" - Acaippa - Projeto do Git Hub
+* ["https://github.com/Acaippa/pygame-fighting-game"](url) - Acaippa - Projeto do Git Hub
+*  Programação -[url](https://youtu.be/31sTUG1t5ck?si=gu5TzniaMr8Pm28c))
+* Jogo rodando - [https://youtu.be/6IAYEhKfnsM?si=dW447M7J0fTmMl_K](url)
+
+
